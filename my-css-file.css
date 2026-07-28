@@ -5,10 +5,18 @@ p{
     color: green;
 }
 body{
-    margin: 0;
+    margin-left: 100px;
+    margin-right: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+}
+
+nav{
+    background-color: rgba(43, 255, 0, 0.523);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
