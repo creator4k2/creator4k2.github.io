@@ -22,3 +22,18 @@ nav{
     width: 350px;
     height: 300px;
 }
+h1{
+    text-shadow: 
+    1px 1px 1px green,
+    2px 2px 1px green;
+}
+h2{
+    text-shadow: 
+    1px 1px 1px green,
+    2px 2px 1px green;
+}
+h3{
+    text-shadow: 
+    1px 1px 1px green,
+    2px 2px 1px green;
+}
