@@ -17,6 +17,7 @@ nav{
     display: flex;
     justify-content: center;
     gap: 50px;
+    width: 800px;
 }
 .Meduimsize{
     width: 350px;
@@ -36,4 +37,9 @@ h3{
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
+}
+.germania-one-regular {
+  font-family: "Germania One", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
