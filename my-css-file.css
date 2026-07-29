@@ -3,6 +3,7 @@ body{
 }
 
 body{
+    
     margin-left: 100px;
     margin-right: 100px;
     display: flex;
@@ -24,11 +25,13 @@ nav{
     height: 300px;
 }
 h1{
+    font-size: 50px;
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
 }
 h2{
+    font-size: 35px; 
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
@@ -42,4 +45,7 @@ h3{
   font-family: "Germania One", system-ui;
   font-weight: 400;
   font-style: normal;
+}
+p{
+    font-size: 20px ;
 }
