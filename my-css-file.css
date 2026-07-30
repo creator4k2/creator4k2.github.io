@@ -28,20 +28,20 @@ nav{
 h1{
     font-size: 70px;
     text-shadow: 
-    1px 1px 1px green,
-    2px 2px 1px green;
+    1px 1px 1px rgb(36, 0, 128),
+    2px 2px 1px rgb(36, 0, 128);
 }
 h2{
     font-size: 40px; 
     text-shadow: 
-    1px 1px 1px green,
-    2px 2px 1px green;
+    1px 1px 1px rgb(36, 0, 128),
+    2px 2px 1px rgb(36, 0, 128);
 }
 h3{
     font-size: 50px;
     text-shadow: 
-    1px 1px 1px green,
-    2px 2px 1px green;
+    1px 1px 1px rgb(36, 0, 128),
+    2px 2px 1px rgb(36, 0, 128);
 }
 .germania-one-regular {
   font-family: "Germania One", system-ui;
