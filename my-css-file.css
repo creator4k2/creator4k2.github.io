@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(131, 224, 224);
+    background-color: rgb(99, 220, 146);
 }
 
 body{
@@ -18,25 +18,27 @@ nav{
     display: flex;
     justify-content: center;
     gap: 50px;
-    width: 1800px;
+    width: 1500px;
+    height: 130px;
 }
 .Meduimsize{
     width: 350px;
     height: 300px;
 }
 h1{
-    font-size: 50px;
+    font-size: 70px;
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
 }
 h2{
-    font-size: 35px; 
+    font-size: 40px; 
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
 }
 h3{
+    font-size: 50px;
     text-shadow: 
     1px 1px 1px green,
     2px 2px 1px green;
@@ -47,5 +49,13 @@ h3{
   font-style: normal;
 }
 p{
-    font-size: 20px ;
+    font-size: 30px ;
+}
+
+a{
+    margin-top: 30px;
+    font-size: 50px ;
+}
+ul{
+    font-size: 35px;
 }
